@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Video Pipeline"
+  short_description: "Create stylish HTML-first narrated videos"
+  default_prompt: "Use $html-video-competition-pipeline to create a stylish HTML-first video, add voiceover, export MP4, and QA the final result."
